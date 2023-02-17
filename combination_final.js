@@ -1,5 +1,5 @@
 const combinations_array = [];
-const word = "asdf";
+const word = "dog";
 const word_array = word.split("");
 
 const get_combination = () => {
